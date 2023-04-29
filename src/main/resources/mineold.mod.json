@@ -1,0 +1,12 @@
+{
+  "modid": "example",
+  "version": "1.0.0",
+  "author": [
+    "ME!!!"
+  ],
+  "name": "ExampleMod",
+  "description": "This is Minecraft 1.3.1 ModLoader Example Mod!!!",
+  "mixin": "mixin.example.json",
+  "mainClass": "com.example.mod.example",
+  "license": "MIT"
+}
